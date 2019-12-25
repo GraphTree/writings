@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  블로그 시작
+title: 블로그 시작
 ---
 
 #블로그 시작
