@@ -1,9 +1,13 @@
 ---
+layout: page
 title: About
 ---
 
-# About this project
+#about GraphTree
+Reasons:
+- its great.
+- its a test.
 
-In a word: **Awesome!**
+## Other thoughts
 
-See the [Home page](/go-go-ghpages/README.md)
+This is great.
