@@ -1,1 +1,10 @@
+# basic options
+title: GraphTree's Blog
+author: GraphTree
+email: graphnodesed@gmail.com
+description: Abotu Applied Math and data
+github_username:  GraphTree
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
