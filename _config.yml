@@ -5,6 +5,25 @@ email: graphnodesed@gmail.com
 description: Abotu Applied Math and data
 github_username:  GraphTree
 
+pub_year: 2019
+keywords: "math, Applied Math, data, statistics"
+repo: "https://github.com/GraphTree/writings"
+url: https://GraphTree.github.io
+baseurl: /writings
+
+# add google analytics if desired (optional)
+# if blank, it will be ignored
+# use JEKYLL_ENV=production on build command
+google_analytics: 
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+
 # Build settings
 markdown: kramdown
 theme: minima
